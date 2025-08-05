@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+         <meta charset="UTF-8">
+         <title>Contact Information</title>
+    </head>
+    <body>
+        <h1>Contact Information</h1>
+        <p>Nathan Pinkelton</p>
+        <p>Email: nathanpinkelton@gmail.com</p>
+        <p>Phone: (219)-718-1541 </p>
+        <p>Portage, IN</p>
+    </body>
+</html>    
